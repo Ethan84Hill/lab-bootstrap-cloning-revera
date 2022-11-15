@@ -2,3 +2,41 @@
     -webkit-filter: grayscale(100%); 
   filter: grayscale(100%);
   }
+
+.reveraheader {
+    font-size: 30px;
+}
+
+.homecolor {
+    color: red;
+}
+
+/* .clicknext {
+    background-color: red;
+    color: white;
+    padding-top: 60px;
+} */
+
+/* .clickprev {
+    background-color: red;
+    color: white;
+    padding-top: 60px;
+} */
+
+.portfolioitems {
+    border-bottom: 80px;
+    border-color: grey;
+}
+
+.projects {
+    padding-left: 355px;
+}
+
+.articles {
+    padding-left: 355px;
+}
+
+.imgresize {
+    width: 300px;
+    height: auto;
+}
